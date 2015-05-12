@@ -13,7 +13,7 @@ See the documentation for each of those packages for more information.
 
 
 Installation Instructions
-=========================
+-----------------------------------
 You can then build it by typing,  
 
   make  
