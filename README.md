@@ -3,7 +3,7 @@ Taxonomic identification of unknown OTUs through OTU co-abundance networks
 
 
 Library Dependencies
-====================
+-----------------------------------
   GSL - GNU Scientific Library  
   MLPACK - open-source scalable c++ machine learning library  
 
@@ -27,7 +27,7 @@ before running "make" again
 
 
 Running
-============
+-----------------------------------
 In the MRF directory,  
   ./ [arguments]  
 
@@ -41,4 +41,4 @@ Arguments:
 --negCorr 		Use Negative correlated OTU's  
 --pThresh 		The maximum p-value for correlation between OTU's  
 --maxEdges 		The maximum number of edges in the OTU network  
-============================
+-----------------------------------
